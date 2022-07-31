@@ -79,6 +79,8 @@ a{
     color: #F9FAF8;
     padding: 8px 25px;
     border-radius: 8px;
+    border-style: solid;
+    border-color: #1F2937;
 }
 
 
